@@ -19,15 +19,15 @@
     
   
   <h1 align="center">Social Media</h1>
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
+    <a href = "mailto: mvinicius030608@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+    <a href = "https://www.linkedin.com/in/vinicius-rodriguesdev">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.instagram.com/devparadev/">
+    <a href = "https://www.instagram.com/viniciuswqi">
       <img width="25" src="instagram.png">
     </a>
 </div>
   
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuigiGF/Mvini7/blob/output/github-contribution-grid-snake.svg)
