@@ -16,6 +16,9 @@
   </a>
 </div>
 
+<div align="center">
+  <img height="300em" src="code.gif">
+</div>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
